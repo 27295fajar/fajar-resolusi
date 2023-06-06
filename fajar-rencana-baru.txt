@@ -3,8 +3,10 @@ RENCANA KONTEN FAJAR
 - STAYCATION
   * Ratu Boko
   * Prambanan
-    >Halaman Samping
-    >Sejarahnya
+    >Halaman Depan
+    >Halaman Belakang
+- REVIEW TEMPAT WISATA
 - REVIEW HOTEL
-  *Neo Hotel
+  * Neo Hotel
 - VLOG
+- Podcast
